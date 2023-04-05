@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @calebschoepp
-- 👀 I’m interested in Wasm
-- 🌱 I’m currently learning how to build a Wasm interpreter
+- 👀 I'm a software engineer at [Fermyon](https://fermyon.com)
 - 📫 Find me [here](https://calebschoepp.com)
 
 <!---
